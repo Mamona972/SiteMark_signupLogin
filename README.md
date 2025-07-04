@@ -63,3 +63,7 @@ Project Goals Achieved:
 Ensured scalability and maintainability with a clear MVC structure on the backend
 Achieved multi-authentication support (email/password + Google login)
 Enhanced user experience with seamless session persistence
+
+
+![Signup page](https://github.com/Mamona972/SiteMark_signupLogin/blob/4177fab92f9055821dd969951b71adbe70e886ca/Signin.PNG)
+
