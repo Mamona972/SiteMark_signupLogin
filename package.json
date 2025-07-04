@@ -1,0 +1,53 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "latest",
+    "@mui/material": "^7.0.2",
+    "@react-oauth/google": "^0.12.2",
+    "jwt-decode": "^4.0.0",
+    "react": "^19.1.0",
+    "react-cookie": "^8.0.1",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.5.0",
+    "react-toastify": "^11.0.5",
+    "typescript": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v7.0.2/docs/data/material/templates/sign-up/SignUp.tsx",
+  "devDependencies": {
+    "@eslint/css": "^0.6.0",
+    "@eslint/js": "^9.24.0",
+    "@eslint/json": "^0.11.0",
+    "@eslint/markdown": "^6.3.0",
+    "@types/jwt-decode": "^3.1.0",
+    "@types/react": "^19.1.1",
+    "@types/react-dom": "^19.1.2",
+    "@types/react-router-dom": "^5.3.3",
+    "eslint": "^8.57.1",
+    "eslint-import-resolver-typescript": "^4.3.4",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.0.0",
+    "react-scripts": "latest",
+    "typescript-eslint": "^8.29.1"
+  },
+  "main": "index.tsx",
+  "scripts": {
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start",
+    "test": "react-scripts test"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
